@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><portlet-properties>
+    <portlet name="AjaxPortlet">
+        <property>
+            <name>DEFAULT_PAGE</name>
+            <value>/_AjaxPortlet/jsp/html/AjaxPortletView.jsp</value>
+        </property>
+    </portlet>
+</portlet-properties>
